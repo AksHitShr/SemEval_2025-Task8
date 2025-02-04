@@ -1,0 +1,522 @@
+yes
+yes
+Yes
+No
+no
+Yes
+Yes
+True
+no
+Sales Executive
+Sales
+Divorced
+3
+Travel_Rarely
+Male
+3
+Human Resources
+36.92
+9
+40
+4877
+13513
+11.1012
+446
+15
+15
+[3]
+[1009, 1051, 1052, 1081, 1091]
+['1 level']
+[25, 25, 25, 25, 25]
+[35, 34, 31, 36, 29]
+['Sales Executive', 'Research Scientist', 'Laboratory Technician']
+['Research & Development', 'Sales']
+['Single']
+['Life Sciences']
+['Travel_Rarely', 'Travel_Frequently', 'Non-Travel']
+['Yes', 'No']
+['JobLevel 1','JobLevel 2','JobLevel 3','JobLevel 4']
+['JobLevel 1', 'JobLevel 2', 'JobLevel 3']
+Yes
+Yes
+False
+0
+false
+NO
+False
+yes
+Yes
+False
+2012
+4.07
+['Service', 'Cleanliness', 'Overall', 'Value', 'Location', 'Sleep Quality', 'Rooms']
+0
+Derek Cullen
+806.75
+20000
+66
+1.15
+12592
+2002
+1
+23020
+[2012, 2011, 2010, 2009]
+[66, 52, 47, 44, 43]
+[]
+['mia2006', 'briang678', 'Michael_B', 'dwh1001', 'minniec', 'jimmyj', 'Sheryl_H', 'dianet171', 'Stephanie_V', 'johnk417', 'David_L', 'jaymzbean', 'josephc', 'Ken_G', 'nancyb285', 'Kim_H', 'djb310', 'annec29', 'Kim_C', 'mia2006', 'briang678', 'Michael_B', 'dwh1001', 'minniec', 'jimmyj', 'Sheryl_H', 'dianet171', 'Stephanie_V', 'johnk417', 'David_L', 'jaymzbean', 'josephc', 'Ken_G', 'nancyb285', 'Kim_H', 'djb310', 'annec29', 'Kim_C', 'mia2006', 'briang678', 'Michael_B', 'dwh1001', 'minniec', 'jimmyj', 'Sheryl_H', 'dianet171', 'Stephanie_V', 'johnk417', 'David_L', 'jaymzbean', 'josephc', 'Ken_G', 'nancyb285', 'Kim_H', 'djb310', 'annec29', 'Kim_C', 'mia2006', 'briang678', 'Michael_B', 'dwh1001', 'minniec', 'jimmyj', 'Sheryl_H', 'dianet171', 'Stephanie_V', 'johnk417', 'David_L', 'jaymzbean', 'josephc', 'Ken_G', 'nancyb285', 'Kim_H', 'djb310', 'annec29', 'Kim_C']
+[3523356, 3236579, 3235844, 3235844, 3235844]
+[2012, 2012, 2012, 'None']
+yes
+Yes
+yes
+Yes
+Yes
+Yes
+Yes
+Request for Quotations
+south asia
+World
+Civil Works
+EUROPE AND CENTRAL ASIA
+India
+None
+812960107.83
+9
+239461
+530724.5038668024
+323901
+5652491.56
+15089039880.51
+[812960107.83, 616609217.47, 577047623.48]
+Yes
+['N/A', 'AAFFD6866N', 'CORAL STRAND HOTEL', 'GROUP, JSC', 'AGÊNCIA DE PROPAGANDA E MARKETING']
+[2021, 2022, 2023]
+[15925264883.9, 13321977331.02, 13505690141.88]
+[100000.05, 100005.34]
+[321127567.87, 306306411.37, 253905847.27, 180832613.5]
+['India', 'Bangladesh', 'Pakistan', 'Vietnam', 'Sri Lanka']
+['SOUTH ASIA', 'Western and Central Africa', 'Eastern and Southern Africa', 'LATIN AMERICA AND CARIBBEAN']
+['Request for Quotations', 'Individual Consultant Selection', 'Request for Bids', 'Direct Selection']
+['None', 'Afghanistan', 'Albania', 'Algeria']
+['Post', 'Prior']
+['Post', 'Prior']
+Yes
+True
+No
+yes
+yes
+Yes
+Yes
+False
+Business and Finance
+Business and Finance
+Sports
+Sports
+483
+Adult Video Games
+bars and restaurants
+703
+34
+85
+316
+40
+40
+8
+Yes
+703
+[483,'None',90]
+[53]
+[0]
+[12,41,5,71,9,1,1,1,18,4,4,15,9,13,30,16,35,2,12,1,38,33,11,31,10,4,9,1,69,44,44,27,24,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]
+['Business and Finance', 'Sports', 'Style & Fashion']
+['Attractions', 'Automotive']
+['Industries']
+['Attractions', 'Automotive', 'Books and Literature', 'Business and Finance']
+['Attractions', 'Automotive', 'Books and Literature', 'Business and Finance']
+[1, 123, 127, 132]
+[150, 1, 2]
+Yes
+yes
+Yes
+yes
+yes
+No
+Yes
+Yes
+Hacendado
+Spain
+[]
+275
+Hacendado
+kiliweb
+0
+48
+5423
+3467
+9102
+9483
+1913
+['8480000041968', '8480000041975', '8480000046444', '8480000230058', '8480000865274', '8480000707000', '00001522']
+['Seitán a la plancha']
+['No label', 'No gluten']
+['No gluten', 'Green Dot', 'No gluten, Green Dot', 'No lactose', 'Vegetarian, Vegan']
+['Hacendado','None']
+[3170,2843]
+['Spain', 'Portugal', 'Ireland']
+[8891, 108, 83]
+yes
+false
+Yes
+Yes
+yes
+Yes
+yes
+Yes
+Switzerland
+Pakistan
+Pakistan
+Switzerland
+Singapore
+['south korea']
+Switzerland
+101.1
+46.5
+363
+44.23
+84.2
+76.7
+111.19
+17
+[67.2,46.5]
+[18.8, 18.8, 18.8, 20.4, 20.4]
+[158.7]
+[109.1, 109.1, 109.1]
+[97.0,50.4]
+['pakistan', 'libya']
+[99.4, 99.4, 99.4, 101.1, 101.1]
+['Switzerland', 'Bahamas', 'Iceland', 'Singapore', 'Barbados']
+['Switzerland']
+['Bangladesh', 'Bangladesh', 'Bangladesh']
+['Australia', 'Austria', 'Canada', 'New Zealand', 'Ireland', 'France']
+['Luxembourg', 'Kuwait', 'Qatar', 'Switzerland', 'United States']
+['Bangladesh', 'Pakistan', 'Indonesia']
+Yes
+yes
+False
+Yes
+yes
+True
+Yes
+yes
+4
+4
+0.71
+2
+2
+5
+3
+Yes
+340
+322.11
+162
+9.7
+312
+0.604
+11854
+108
+[9.92, 9.91, 9.87, 9.87, 9.86]
+9
+42
+[120,120,120,120,120]
+[6.8, 7.2, 7.21, 7.23, 7.25]
+[5.0,5.0,5.0,5.0,5.0]
+[5.0,5.0,5.0,5.0,5.0]
+[120, 120, 120, 120, 120]
+[340, 340]
+[7.46, 7.69]
+[4, 5, 5, 5, 5]
+[1, 1, 2, 1, 1]
+[4.0, 4.0, 4.5, 4.5]
+[5.0]
+[2.0]
+Yes
+yes
+True
+No
+true
+Yes
+Yes
+no
+Yes
+Southeast
+male
+Yes
+southeast
+male
+No
+0
+northeast
+no
+53.13
+1.09
+4
+53267474.97227701
+18
+273
+822
+30.4
+[53.13,53.13]
+[1163.4627, 1163.4627, 1163.4627]
+[19, 19, 19, 19, 19]
+[19, 19, 19]
+['yes', 'no']
+['southeast']
+Yes
+No
+No
+yes
+Yes
+yes
+Yes
+yes
+yes
+74 kg
+93 kg
+Bench Press
+399
+10
+10
+0
+399
+399
+Jessica Wilson
+258507
+100
+299
+13
+[399, 398, 397]
+[100, 100, 100, 100, 100]
+['93 kg', 'Open', '59 kg', '83 kg', '52 kg']
+[64,74,120]
+[100, 100]
+[399]
+['Jane', 'Emily']
+['Michael Johnson', 'Matthew Anderson']
+['93 kg', 'Open', '59 kg']
+['Jane Smith', 'Jane Smith', 'Emily Davis', 'Matthew Anderson', 'Chris Brown']
+['Squat','Bench Press','Deadlift']
+['Deadlift', 'Bench Press', 'Squat']
+Yes
+False
+yes
+yes
+no
+Yes
+Yes
+yes
+HHS Region 04
+Suicide
+Male
+Rural
+HHS Region 04
+276.4
+0.1
+75
+68288.1
+0.64
+63.08
+10
+273.0
+[276.4, 276.4, 276.4, 266.4, 266.4]
+[0.1, 0.1, 0.1, 0.1, 0.1]
+[106.0, 106.0, 106.0, 106.7, 106.7]
+[226.8, 226.8, 226.8, 222.5]
+[0.9,0.9,0.9,1.1,1.1]
+['Heart disease']
+['HHS Region 04', 'HHS Region 06', 'HHS Region 03']
+['Region', 'Status']
+True
+False
+False
+False
+True
+true
+False
+Yes
+Carmelo Anthony
+Kevin Durant
+Golden State Warriors
+Kevin Garnett
+golden state warriors
+Rajon Rondo
+Ricky Rubio
+191
+1348034
+1896
+90.7527
+82
+907
+0
+0
+269
+[1247,1232,1226]
+[907,840,839]
+[2818, 2593, 2558, 2376]
+[191, 177, 174]
+[269, 254, 242]
+['Javonte Smart','Thaddeus Young','Jalen Crutcher','Orlando Robinson','Kaiser Gates']
+['Andre Drummond', 'Andre Drummond', 'DeAndre Jordan']
+['Golden State Warriors', 'Los Angeles Clippers', 'Boston Celtics', 'Milwaukee Bucks', 'Miami Heat']
+['GSW', 'MIL', 'BOS', 'OKC', 'DEN']
+['Ricky Rubio','Victor Oladipo']
+['Hassan Whiteside','Victor Wembanyama','Serge Ibaka']
+['Chris Paul', 'Rajon Rondo', 'Greivis Vasquez', 'Tony Parker']
+Yes
+yes
+Yes
+yes
+no
+Yes
+False
+126
+No
+1
+19
+163
+2
+31.6
+126
+1.35
+29.26
+3036
+30
+270
+61
+5.09
+[196,196,196]
+[16, 17, 18, 19]
+[1, 2, 3, 4, 5, 6, 7, 8, 9]
+[49]
+[0, 1]
+[0]
+[157]
+[1, 2, 3, 4, 5, 6, 7, 8, 9]
+[17, 18, 19, 20, 21]
+Yes
+True
+No
+yes
+Yes
+False
+yes
+Yes
+yes
+1
+5
+May
+11
+August
+January
+6
+May
+33.3
+0.4
+574.4003206590003
+7
+44.2882
+29
+4.56
+247
+[33.3, 33.1, 32.6]
+[7.9, 9.3, 15.3, 15.5, 15.8]
+[9]
+[15, 15, 17, 18]
+[9.4, 9.4, 9.4, 9.4, 8.9]
+[6.995619625, 6.616439948, 5.633109621]
+[1.1, 2.4, 3.0]
+['April']
+['February','December','August']
+['January', 'January']
+['February']
+['December', 'August']
+['December']
+['August', 'February', 'December', 'November', 'April', 'June', 'July', 'January', 'March']
+Yes
+False
+False
+No
+Yes
+Yes
+yes
+No
+Lower Manhattan
+Flavours
+Fri
+Premium Beans
+Jun
+20
+lower manhattan
+Coffee
+8
+80
+655611
+yes
+3.38
+30182
+3
+9.50
+35352
+[8]
+[5,8,3]
+[0.8,0.8,0.8,0.8]
+['9,50', '9,30', '9,25']
+[1, 2, 3, 4, 5, 6, 7]
+['Astoria']
+['Coffee beans','Branded']
+['Brewed Chai tea', 'Gourmet brewed coffee', 'Barista Espresso']
+['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun']
+['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
+[5, 8]
+['Premium Beans', 'Premium Beans']
+cat
+True
+true
+True
+True
+False
+False
+Yes
+Yes
+How to Win Friends and Influence People
+Novel
+0
+0
+Ernest Hemingway
+80
+Bharti Bhawan
+6
+Islamic Books
+8
+14087
+9
+20.24
+9
+498
+1
+12
+37
+[1276, 1144, 688, 640, 560]
+[1276, 1144, 688, 640, 560]
+[73.0, 85.0, 50.0, 55.0]
+[500, 300, 750]
+[None,8.0,33.0,9.0,0.0]
+[85.0, 73.0, 55.0, 50.0, 44.0]
+[498]
+21
+['History and Tradition', 'Business, Investment and Economics', 'Islamic Books', 'Islamic Books', 'Computer Science & Engineering']
+['Harish Bhat', 'B.S. Badan']
+['Madinah Arabic Reader 1']
+['History', 'Tradition']
+['Ernest Hemingway']
+['Self-help and meditation', 'Self-help and meditation', 'Self-help and meditation', 'Novel', 'Novel']
+['1st Edition']

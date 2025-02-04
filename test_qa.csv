@@ -1,0 +1,68 @@
+question,dataset
+What are the first three letters of the month that has the highest average products per transaction?,079_Coffee
+Which hour has the lowest number of transactions? Answer with a number from 0 to 23.,079_Coffee
+What is the location of the first purchase row-wise?,079_Coffee
+What is the categorization of the first product row-wise?,079_Coffee
+What is the maximum amount of products that were sold in a single given transaction?,079_Coffee
+How many unique different products do we sell?,079_Coffee
+What is the total revenue provided by all the transactions in the dataset?,079_Coffee
+Are our stores open on Sunday?,079_Coffee
+What is the average unitary price in our transactions?,079_Coffee
+What is the total number of transactions carried on a Sunday?,079_Coffee
+How many active stores do we own according to this dataset?,079_Coffee
+How much revenue did our best single transaction bring?,079_Coffee
+How many transactions occurred in the sixth month of the year?,079_Coffee
+List the 3 largest amount of products bought in one transaction? If there are less than 3 list as many as there are.,079_Coffee
+List the different store ids,079_Coffee
+List the lowest 4 single-product price values,079_Coffee
+List highest 3 different revenues a given transaction has yielded?,079_Coffee
+List the unique numerical weekly values present in this dataset,079_Coffee
+What are the different locations where our business is present?,079_Coffee
+What are the unique product_category names in transactions with transaction_qty > 5? If there are none answer with an empty list,079_Coffee
+What are the 3 most common product_type names?,079_Coffee
+What are the abbreviated month names where transactions have been present?,079_Coffee
+Could you list the unique weekday names our transactions are recorded in?,079_Coffee
+ List the IDs of our 2 most popular stores in terms of number of purchases,079_Coffee
+ What are the 2 (non-unique) product types associated with the highest 2 revenues of a single given purchase? Answer with a list with 2 elements.,079_Coffee
+ What is the name of the animal involved in the production of the most expensive coffee-related product that we offer? Answer with a value present in a cell of the database.,079_Coffee
+Do we have any book on sale? Answer True or False,080_Books
+Are there any books that are longer than 500 pages? Answer True or False,080_Books
+Did Mr Harari write a book on history? Answer True or False,080_Books
+Does any book have a rating better than 35? Answer True or False,080_Books
+Do we still have enough stock of all books? Answer True or False,080_Books
+"A customer asked for a book titled 'The greatest book to ever exist', do we have it in stock? Answer True or False",080_Books
+Is there any book published by Harper Collins for India?,080_Books
+Are there any books with fewer than 100 pages?,080_Books
+Which book is considered the best by our clients?,080_Books
+"Assuming all books are similar in reading difficulty, which category does the book that would take longest to read belong to?",080_Books
+How many suns were there in the title of Hosseinis' novel? Answer with a number,080_Books
+How many books are written by multiple authors? (explicitly mentioned translators and editors count as authors),080_Books
+Who was the book with most reviewed book written by?,080_Books
+"If I wanted to buy the shortest book, how long would be the book that I'd pick?",080_Books
+What is the publisher of the nineteenth edition of Let Us C?,080_Books
+How much stock (in number of books) of Ben Graham's work is there in this store?,080_Books
+Which category does the Quran belong to?,080_Books
+"According to this database, how many editions has 'The Intelligent Investor' gone through?",080_Books
+What is the total number of book pages in our database?,080_Books
+"If I can read 200 pages a day and I want to pick a book that I can read in half a day, what is the number of books that I can choose from?",080_Books
+What is the average rating of all books?,080_Books
+"If we had 30 copies of the arabic reader this morning, how many have we sold?",080_Books
+How many pages does Sapiens have?,080_Books
+How many books could be said to fall in the islamic category?,080_Books
+How many books have been reviewed more than 10 times?,080_Books
+What is the total number of books that we are selling below their usual price?,080_Books
+List the page counts of the first five books in the dataset?,080_Books
+List the page lengths (in numeric form) of the first five books?,080_Books
+List the ratings of the top four books with the most reviews?,080_Books
+Provide me with a list containing all the lengths of the books about computer science.,080_Books
+List the number of copies left for the first five books.,080_Books
+List the ratings of the last five books in the dataset,080_Books
+List the page counts of books in the 'History and Tradition' category?,080_Books
+What is the stock of the book that is closest to running out copies but hasn't yet?.,080_Books
+List the categories of the first five books.,080_Books
+List the authors of books that are not on sale today.,080_Books
+List the titles of books with fewer than 200 pages.,080_Books
+List the categories of books with ratings above 20.,080_Books
+List the authors of books with more than 10 reviews.,080_Books
+List the 5 categories of the last five books in the dataset.,080_Books
+"List the editions of books in the 'Business, Investment and Economics' category.",080_Books
